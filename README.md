@@ -61,7 +61,13 @@ Examples:
 
 ## 5. Screenshots from trailhead
 "C:\Users\vedak\OneDrive\Documents\salesforce profile.jpeg"
+## 5. Screenshots from Salesforce
 
+
+
+![Screenshot 1](IMG-20260513-WA0010.jpeg)
+
+![Screenshot 2](IMG20260513100238.jpg)
   
 **Date:** 13 May 2026  
 **Day:** Day 2 - Salesforce Platform Basics
